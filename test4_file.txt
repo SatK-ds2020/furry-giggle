@@ -1,3 +1,4 @@
 this is my thiredmodification to practice push command with token access
 this is my forth modification to practice push command with token access
 more changes done
+stash means saving temp in paused state without showing the changes that you made while showing WIP:stash example
