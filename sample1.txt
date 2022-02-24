@@ -1,1 +1,2 @@
  this is sample file 1 in dev branch
+ Create a managed node group with or without using a custom launch template. Manually specifying a launch template allows for greater customization of a node group.
