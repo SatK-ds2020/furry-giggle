@@ -1,2 +1,3 @@
  this is sample file 2 in dev branch
 this is comparision lecture2
+git stash means saving the incomplete file temperorily before commit
